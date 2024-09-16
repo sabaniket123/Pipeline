@@ -1,1 +1,2 @@
 Hi
+try git fetch
